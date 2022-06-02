@@ -1,0 +1,26 @@
+[
+  {
+    "option": {
+      "denture": {
+        "crown": 100000,
+        "bridge": 20000
+      },
+      "reserve": {
+        "amalgam": 20000,
+        "gold": 30000
+      }
+    }
+  },
+  {
+    "option": {
+      "denture": {
+        "crown": 100000,
+        "bridge": 20000
+      },
+      "reserve": {
+        "amalgam": 20000,
+        "gold": 30000
+      }
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "company": [
+    {
+      "product_code": "E10004",
+      "company_code": "1",
+      "company_name": "교보라이프플래닛",
+      "total_index": 54.49
+    },
+    {
+      "product_code": "E10009",
+      "company_code": "4",
+      "company_name": "미래에셋생명",
+      "total_index": 55.11
+    }
+  ]
+}

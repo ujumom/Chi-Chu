@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  front:
+    build: ./frontend/
+    restart: always
+    environment:
+      TZ: Asia/Seoul
+    ports:
+      - "3000:3000"
+    networks:
+      - default
+  back:
+    build: ./back/
+    restart: always
+    environment:
+      TZ: Asia/Seoul
+    ports:
+      - "8000:8000"
+    networks:
+      - default
+
+networks:
+  default:
+    external:
+      name: chichu_net

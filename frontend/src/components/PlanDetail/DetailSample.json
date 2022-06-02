@@ -1,0 +1,162 @@
+{
+  "base": [
+    {
+      "PRODUCT_CODE": "E10001",
+      "PRODUCT_NAME": "무배당라이나다이렉트치아보험Ⅱ(갱신형) 집중보장",
+      "COMPANY_CODE": "3",
+      "COMPANY_NAME": "라이나생명",
+      "AGE": 30,
+      "GENDER": "2",
+      "PY": 10,
+      "RATE": 17654,
+      "COMPANY_INDEX": 85.02,
+      "PRODUCT_INDEX": 38.86,
+      "USER_INDEX": 7.99,
+      "TOTAL_INDEX": 49.1
+    }
+  ],
+  "option": [
+    {
+      "NAME": "충전치료",
+      "COVERAGE": "180000원"
+    },
+    {
+      "NAME": "아말감",
+      "COVERAGE": "10000원"
+    },
+    {
+      "NAME": "크라운",
+      "COVERAGE": "200000원"
+    },
+    {
+      "NAME": "신경치료",
+      "COVERAGE": "20000원"
+    },
+    {
+      "NAME": "영구치상실발생금",
+      "COVERAGE": "20000원"
+    },
+    {
+      "NAME": "스케일링",
+      "COVERAGE": "10000원"
+    },
+    {
+      "NAME": "잇몸질환",
+      "COVERAGE": "20000원"
+    }
+  ],
+  "option_detail": [
+    {
+      "NAME": "금, 도재(세라믹)",
+      "COVERAGE": "130000원"
+    },
+    {
+      "NAME": "아말감",
+      "COVERAGE": "10000원"
+    },
+    {
+      "NAME": "금, 도재(세라믹), 아말감 이외",
+      "COVERAGE": "50000원"
+    },
+    {
+      "NAME": "크라운치료보험금",
+      "COVERAGE": "200000원"
+    },
+    {
+      "NAME": "치수치료(신경치료) 보험금",
+      "COVERAGE": "20000원"
+    },
+    {
+      "NAME": "영구치발거치료보험금",
+      "COVERAGE": "20000원"
+    },
+    {
+      "NAME": "치석제거(스케일링) 치료보험금",
+      "COVERAGE": "10000원"
+    },
+    {
+      "NAME": "주요치주질환(잇몸질환)치료보험금",
+      "COVERAGE": "20000원"
+    }
+  ],
+  "option_group": [
+    {
+      "NAME": "치아보존치료비",
+      "COVERAGE": 39,
+      "RATE": 0.0179
+    },
+    {
+      "NAME": "치아신경치료비",
+      "COVERAGE": 2,
+      "RATE": 0.0182
+    }
+  ],
+  "age_rate": [
+    {
+      "AGE_CAT": 30,
+      "RATE": 13.89
+    },
+    {
+      "AGE_CAT": 40,
+      "RATE": 69.44
+    },
+    {
+      "AGE_CAT": 20,
+      "RATE": 13.89
+    },
+    {
+      "AGE_CAT": 10,
+      "RATE": 2.78
+    }
+  ],
+  "option_column": [
+    {
+      "ID": "1",
+      "OPTION_NAME": "충전치료"
+    },
+    {
+      "ID": "2",
+      "OPTION_NAME": "임플란트"
+    },
+    {
+      "ID": "3",
+      "OPTION_NAME": "틀니"
+    },
+    {
+      "ID": "4",
+      "OPTION_NAME": "브릿지"
+    },
+    {
+      "ID": "5",
+      "OPTION_NAME": "신경치료"
+    },
+    {
+      "ID": "6",
+      "OPTION_NAME": "잇몸질환"
+    },
+    {
+      "ID": "7",
+      "OPTION_NAME": "치조골 이식수술"
+    },
+    {
+      "ID": "8",
+      "OPTION_NAME": "스케일링"
+    },
+    {
+      "ID": "9",
+      "OPTION_NAME": "치아골절 진단비"
+    },
+    {
+      "ID": "10",
+      "OPTION_NAME": "X-RAY 촬영"
+    },
+    {
+      "ID": "11",
+      "OPTION_NAME": "아말감"
+    },
+    {
+      "ID": "12",
+      "OPTION_NAME": "레진"
+    }
+  ]
+}

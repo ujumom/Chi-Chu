@@ -1,0 +1,86 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* 폰트 불러오기 */
+@font-face {
+  font-family: WendyOneRegular;
+  src: url('/public/fonts/WendyOne-Regular.ttf');
+}
+
+@font-face {
+  font-family: FredokaOneRegular;
+  src: url('/public/fonts/FredokaOne-Regular.ttf');
+}
+
+@font-face {
+  font-family: PoppinsExtraBold;
+  src: url('/public/fonts/Poppins-ExtraBold.ttf');
+}
+
+@font-face {
+  font-family: UbuntuBold;
+  src: url('/public/fonts/Ubuntu-Bold.ttf');
+}
+
+/*  */
+
+@font-face {
+  font-family: NotoSansKRBold;
+  src: url('/public/fonts/NotoSansKR-Bold.otf');
+}
+
+@font-face {
+  font-family: NotoSansKRMedium;
+  src: url('/public/fonts/NotoSansKR-Medium.otf');
+}
+
+@font-face {
+  font-family: NotoSansKRRegular;
+  src: url('/public/fonts/NotoSansKR-Regular.otf');
+}
+
+@font-face {
+  font-family: NotoSansKRLight;
+  src: url('/public/fonts/NotoSansKR-Light.otf');
+}

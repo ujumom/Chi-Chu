@@ -1,0 +1,70 @@
+[
+  {
+    "logo_img": "lina_logo.jpg",
+    "brand_name": "교보 라이프플래닛",
+    "plan_name": "만기까지비갱신",
+    "plan_type": "가입금액3천만원",
+    "plan_cost": "10000",
+    "plan_score": 88
+  },
+  {
+    "logo_img": "lina_logo.jpg",
+    "brand_name": "미래에셋 생명",
+    "plan_name": "온라인 보험 무배당",
+    "plan_type": "가입금액3천만원",
+    "plan_cost": "20000",
+    "plan_score": 99
+  },
+  {
+    "logo_img": "lina_logo.jpg",
+    "brand_name": "MG 손해보험",
+    "plan_name": "다이렉트 보험",
+    "plan_type": "고급플랜",
+    "plan_cost": "30000",
+    "plan_score": 77
+  },
+  {
+    "logo_img": "lina_logo.jpg",
+    "brand_name": "라이나 생명",
+    "plan_name": "이가튼튼 보험",
+    "plan_type": "실속형",
+    "plan_cost": "30000",
+    "plan_score": 80
+  },
+  {
+    "logo_img": "lina_logo.jpg",
+    "brand_name": "교보 라이프플래닛",
+    "plan_name": "e암보험III",
+    "plan_type": "가입금액 3천만원",
+    "plan_tag": ["임플란트", "브릿지"],
+    "plan_cost": "46800",
+    "plan_score": 100
+  },
+  {
+    "logo_img": "lina_logo.jpg",
+    "brand_name": "미래에셋생명",
+    "plan_name": "온라인 무배당",
+    "plan_type": "가입금액 3천만원",
+    "plan_tag": ["임플란트", "브릿지", "발치"],
+    "plan_cost": "61700",
+    "plan_score": 30
+  },
+  {
+    "logo_img": "lina_logo.jpg",
+    "brand_name": "한화생명",
+    "plan_name": "100세 착한 보험",
+    "plan_type": "가입금액 3천만원",
+    "plan_tag": ["브릿지", "발치"],
+    "plan_cost": "54600",
+    "plan_score": 55
+  },
+  {
+    "logo_img": "lina_logo.jpg",
+    "brand_name": "농협생명",
+    "plan_name": "모두의보험",
+    "plan_type": "가입금액 3천만원",
+    "plan_tag": ["임플란트", "발치"],
+    "plan_cost": "85000",
+    "plan_score": 77
+  }
+]
